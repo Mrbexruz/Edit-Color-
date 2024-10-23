@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+
+    tools:context=".SecondFragment">
+
+
+    <View
+        android:id="@+id/v1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#03A9F4"/>
+<View
+    android:id="@+id/v2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#00BCD4"/>
+<View
+    android:id="@+id/v3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#000000"/>
+<View
+    android:id="@+id/v4"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#06FF10"/>
+<View
+    android:id="@+id/v5"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/white"/>
+<View
+    android:id="@+id/v6"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#FFEB3B"/>
+<View
+    android:id="@+id/v7"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#F44336"/>
+<View
+    android:id="@+id/v8"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#4CAF50"/>
+    <View
+    android:id="@+id/v9"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#F814FF"/>
+
+
+</GridLayout>
